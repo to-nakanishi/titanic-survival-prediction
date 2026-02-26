@@ -22,7 +22,7 @@ Titanic Survival Prediction(Kaggle提供：https://www.kaggle.com/)
 　・titanic.ipynb: 分析ノートブック  
 　・submission.csv: 提出結果  
 
-5.学び
+5.学び  
 　・カテゴリ変数の効率的な処理  
 　・ビジネス仮説に基づくEDA  
 　・RandomForestの実装と評価  
