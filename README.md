@@ -10,12 +10,12 @@ Titanic Survival Prediction(Kaggle提供：https://www.kaggle.com/)
 　Cabin処理（特徴量工夫の事例）   
 　Cabinの欠損率が77%と高いため、以下を想定。  
   仮説：「客室記載=上位クラスのゲスト」と考え、生存率を比較。  
-　Cabin情報あり：68% 生存率  
+　Cabin情報あり：67% 生存率  
 　情報なし：30% 生存率  
   → 有意な差があるため、削除ではなくHas_Cabinフラグを作成し、モデルに組み込み  
 
 3.技術  
- Python, pandas, scikit-learn, RandomForest  
+ Python, pandas, matplotlib、 scikit-learn　RandomForest  
 
 4.ファイル  
 　・train.csv, test.csv: Kaggleサイト参照  
