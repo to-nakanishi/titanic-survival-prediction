@@ -1,4 +1,5 @@
-Titanic Survival Prediction(Kaggle提供：https://www.kaggle.com/)  
+Titanic Survival Prediction
+(Kaggle提供：[https://www.kaggle.com/](https://www.kaggle.com/competitions/titanic))  
 　タイタニック号の乗客生存予測モデルを構築  
 
 1.結果  
