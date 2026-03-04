@@ -25,7 +25,7 @@ Titanic Survival Prediction
 　・submission.csv: 提出結果  
 
 5.学び  
-　・欠損値処理
+　・欠損値処理  
 　・カテゴリ変数の効率的な処理  
 　・ビジネス仮説に基づくEDA  
 　・RandomForestの実装と評価  
