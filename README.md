@@ -2,6 +2,7 @@ Titanic Survival Prediction
 (Kaggle提供：[https://www.kaggle.com/](https://www.kaggle.com/competitions/titanic))  
 　タイタニック号の乗客生存予測モデルを構築  
 ※分析１作目であり、基礎練習的な位置づけです。
+※py拡張子のファイルは自動分析にかけるためUPLOADしています。
 
 1.結果  
 　・Kaggleスコア: 77.7% (上位33%)  
